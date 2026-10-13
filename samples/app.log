@@ -1,0 +1,8 @@
+2026-10-12T10:00:01Z INFO service started
+2026-10-12T10:00:02Z ERROR database connection timeout for host 10.1.2.3
+2026-10-12T10:00:03Z ERROR database connection timeout for host 10.1.2.4
+2026-10-12T10:00:04Z WARN retry attempt 10001 exceeded threshold
+2026-10-12T10:00:05Z ERROR request "GET /orders/123456" failed
+2026-10-12T10:00:06Z INFO health check passed
+2026-10-12T10:00:07Z ERROR database connection timeout for host 10.1.2.5
+2026-10-12T10:00:08Z CRITICAL payment queue unavailable
